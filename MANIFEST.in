@@ -1,0 +1,5 @@
+recursive-include docs *
+recursive-include extended_mongoreversion/templates *.xml *.html
+include AUTHORS
+include LICENSE
+include README.rst
